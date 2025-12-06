@@ -42,9 +42,6 @@ or update the path in the notebook.
 
 Evaluation metrics are available in:
 
-```
-metrics/
-```
 
 Metrics include:
 - Precision
@@ -61,10 +58,6 @@ Metrics include:
 ###  Original vs Prediction
 
 
-```
-original vs prediction
-```
-
 Example preview:
 
 ![Original vs Prediction](original_vs_prediction.png)
@@ -76,9 +69,6 @@ Example preview:
 
 Overlay visualizations are available in:
 
-```
-masks overlay
-```
 
 Example preview:
 
