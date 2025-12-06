@@ -18,7 +18,7 @@ Only **3 sample images** are included in this repository to show the dataset for
 
 This project uses the **Brain Tumor Segmentation** dataset:
 
-👉 https://www.kaggle.com/datasets/nikhilroxtomar/brain-tumor-segmentation
+https://www.kaggle.com/datasets/nikhilroxtomar/brain-tumor-segmentation
 
 The full dataset includes MRI images and binary segmentation masks.  
 
